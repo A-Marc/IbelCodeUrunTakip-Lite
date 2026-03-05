@@ -1,4 +1,4 @@
-﻿Shopify & Google Search Orchestrator
+﻿Shopify & Google Search Orchestrator Marc
 This project is a high-performance .NET Core solution designed to bridge the gap between global market data and e-commerce management. It enables automated Google product searching and seamless synchronization with the Shopify Admin API.
 
 🚀 Key Modules
